@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">39211742983-6lfbpcvee8g807u4b0a35arvcmf5eur2.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">39211742983</string>
+    <string name="google_api_key" translatable="false">AIzaSyB-j_jWExOry5OCTIX64rn7qg4xizn6Twc</string>
+    <string name="google_app_id" translatable="false">1:39211742983:android:153dbb53354777150137a2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB-j_jWExOry5OCTIX64rn7qg4xizn6Twc</string>
+    <string name="google_storage_bucket" translatable="false">caninecentre-c2.appspot.com</string>
+    <string name="project_id" translatable="false">caninecentre-c2</string>
+</resources>
